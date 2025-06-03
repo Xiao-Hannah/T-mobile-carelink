@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/T-mobile-carelink/static/css/main.0912dcb9.css",
+    "main.js": "/T-mobile-carelink/static/js/main.2c49e452.js",
+    "static/js/453.2504b35b.chunk.js": "/T-mobile-carelink/static/js/453.2504b35b.chunk.js",
+    "static/media/logo.svg": "/T-mobile-carelink/static/media/logo.c950926f0aa0fa9c7a3fafa3fc40c82c.svg",
+    "index.html": "/T-mobile-carelink/index.html",
+    "main.0912dcb9.css.map": "/T-mobile-carelink/static/css/main.0912dcb9.css.map",
+    "main.2c49e452.js.map": "/T-mobile-carelink/static/js/main.2c49e452.js.map",
+    "453.2504b35b.chunk.js.map": "/T-mobile-carelink/static/js/453.2504b35b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0912dcb9.css",
+    "static/js/main.2c49e452.js"
+  ]
+}
